@@ -11,11 +11,15 @@ We built an end-to-end ML pipeline including data preprocessing, feature enginee
 
 H-Predict:
   README.md: This README file
+  
   Data270_project.ipynb: Main Jupyter notebook with full ML pipeline
+  
   Project ppt and report/:
     - Final project presentation (PPTX)
     - Group report (PDF)
+    
   PolyandLinearPickles/: Saved models for Polynomial and Linear Regression
+  
   XGBoost Pickle/: Saved tuned XGBoost model (.pkl)
 
 

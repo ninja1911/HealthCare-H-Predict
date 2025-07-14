@@ -9,11 +9,15 @@ We built an end-to-end ML pipeline including data preprocessing, feature enginee
 ---
 ## 📁 Repository Structure
 
-├── Data270_project.ipynb # Main Jupyter notebook with full ML pipeline
-├── README.md # This README file
-├── Project ppt and report/ # Presentation slides and final report (PDF, PPTX)
-├── PolyandLinearPickles/ # Saved models for Polynomial and Linear Regression
-├── XGBoost Pickle/ # Saved tuned XGBoost model (.pkl)
+H-Predict:
+  README.md: This README file
+  Data270_project.ipynb: Main Jupyter notebook with full ML pipeline
+  Project ppt and report/:
+    - Final project presentation (PPTX)
+    - Group report (PDF)
+  PolyandLinearPickles/: Saved models for Polynomial and Linear Regression
+  XGBoost Pickle/: Saved tuned XGBoost model (.pkl)
+
 
 ---
 

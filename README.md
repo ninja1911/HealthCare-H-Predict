@@ -7,7 +7,13 @@
 We built an end-to-end ML pipeline including data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation. The best-performing model (XGBoost) achieved an R² ≈ 0.90.
 
 ---
+## 📁 Repository Structure
 
+├── Data270_project.ipynb # Main Jupyter notebook with full ML pipeline
+├── README.md # This README file
+├── Project ppt and report/ # Presentation slides and final report (PDF, PPTX)
+├── PolyandLinearPickles/ # Saved models for Polynomial and Linear Regression
+├── XGBoost Pickle/ # Saved tuned XGBoost model (.pkl)
 
 ---
 
@@ -81,13 +87,6 @@ These files summarize project motivation, technical approach, challenges, and ou
 - Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Pickle (for model serialization)
-
----
-
-## 👨‍💻 Authors
-
-Group 4 | SJSU - DATA 270  
-*Reach out if you'd like more info, or want to collaborate on healthcare ML use cases.*
 
 ---
 

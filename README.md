@@ -105,11 +105,3 @@ These files summarize project motivation, technical approach, challenges, and ou
 3. Run all cells to see preprocessing, model training, evaluation  
 4. Load pickled models for prediction or integration into applications  
 
----
-
-## 📬 Contact
-
-For queries or collaborations, open an issue or connect via LinkedIn/GitHub.
-
----
-
